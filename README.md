@@ -95,6 +95,7 @@ Fato + Dimensão: Cliente - Atributos: Formação.
 
 ## Passo 6: Critérios de Priorização
 Critério 1: Dados disponíveis
+
 Critério 2: Insights Acionável
 
 ## Passo 7: Priorização das Hipóteses Analíticas
@@ -119,7 +120,30 @@ Hipótese 5. Clientes que compram mais carne também compram mais vinho.
 ![Hipótese 5](img/hipotese5.png)
 
 # Insights da análise
+### Visão geral da campanha de Marketing
+![Visão Geral](img/visao-geral.png)
+
+### Visão Clientes
+![Visão Cliente](img/visao-clientes.png)
+
+### Conclusão: Visão Resultado Cliente
+![Visão Resultado Cliente](img/visao-clientes-completa.png)
+
+### Conclusão: Visão Produto
+![Visão Produto](img/visao-produto.png)
 
 # Resultados
+Conclusão: o melhor segmento da campanha foram os clientes casados com idade entre 41 e 50 anos de idade, sem filhos em casa em com graduação completa.
+
+O pior segmento de clientes foram os viúvos de todas as faixas etárias, clientes abaixo dos 30 anos de todos os estados civis com 2 ou mais crianças em casa e somente ensino fundamental.
+
+Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas ações ao melhor segmento apresentado e reduzir o investimento nos outros segmentos, especialmente o mencionado.
+
+## Visualize a análise completa:
+[Análise Completa](https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5)
 
 # Próximos Passos
+1. Explorar mais características ods clientes.
+2. Automatizar a coleta e a análise para acompanhamento.
+3. Agrupar os clientes em grupos de maior e menor faturamento para entender se há similaridades ou não.
+4. Montar um dashboard de acompanhamento das métricas das futuras campanhas de marketing.
