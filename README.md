@@ -102,6 +102,7 @@ Hipótese 1. Clientes abaixo dos 30 anos gastam mais com produtos do iFood do qu
 ![Hipótese 1](img/hipotese1.png)
 
 Hipótese 2. Clientes solteiros gastam menos do que os outros segmentos de clientes.
+[//]
 ![Hipótese 2](img/hipotese2.png)
 
 Hipótese 3. Clientes solteiros abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
