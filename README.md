@@ -47,7 +47,7 @@ As colunas foram agrupadas em dimensões comuns que fornecem mais detalhes sobre
 1. Cliente
   - Salário: o sálario anual de cada cliente.
   - Idade: idade do cliente.
-  - Faixa-Etária:
+  - Faixa-Etária: intervalo de idades no qual o cliente se enquadra.
   - Estado-Civil: status de união afetiva.
   - Formação: nível de escolaridade do cliente.
   - Crianças-Casa: número de crianças na residência do cliente.
