@@ -105,36 +105,38 @@ Critério 2: Insights Acionável
 ## Passo 7: Priorização das Hipóteses Analíticas
 Hipótese 1. Clientes abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
 
-![Hipótese 1](reports/figures/img/hipotese1.png)
+![Hipótese 1](reports/figures/img/hipotese1.jpeg)
 
 Hipótese 2. Clientes solteiros gastam menos do que os outros segmentos de clientes.
 
-![Hipótese 2](reports/figures/img/hipotese2.png)
+![Hipótese 2](reports/figures/img/hipotese2.jpeg)
 
 Hipótese 3. Clientes solteiros abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
 
-![Hipótese 3](reports/figures/img/hipotese3.png)
+![Hipótese 3](reports/figures/img/hipotese3.jpeg)
 
 Hipótese 4. Clientes com crianças em casa compram mais pelo ifood.
 
-![Hipótese 4](reports/figures/img/hipotese4.png)
+![Hipótese 4](reports/figures/img/hipotese4.jpeg)
 
 Hipótese 5. Clientes que compram mais carne também compram mais vinho.
 
-![Hipótese 5](reports/figures/img/hipotese5.png)
+![Hipótese 5](reports/figures/img/hipotese5.jpeg)
 
 # Insights da análise
 ### Visão geral da campanha de Marketing
-![Visão Geral](reports/figures/img/visao-geral.png)
+![Visão Geral](reports/figures/img/visao-geral.jpeg)
 
 ### Visão Clientes
-![Visão Cliente](reports/figures/img/visao-clientes.png)
+![Visão Cliente](reports/figures/img/visao-clientes.jpeg)
 
 ### Conclusão: Visão Resultado Cliente
-![Visão Resultado Cliente](reports/figures/img/visao-clientes-completa.png)
+![Visão Resultado Cliente](reports/figures/img/visao-clientes-completa.jpeg)
 
 ### Conclusão: Visão Produto
-![Visão Produto](reports/figures/img/visao-produto.png)
+![Visão Produto](reports/figures/img/visao-produto.jpeg)
+![Visão Produto](reports/figures/img/visao-produto.jpeg)
+![Visão Produto](reports/figures/img/visao-produto.jpeg)
 
 # Resultados
 Conclusão: o melhor segmento da campanha foram os clientes casados com idade entre 41 e 50 anos de idade, sem filhos em casa em com graduação completa.
