@@ -104,43 +104,33 @@ Critério 2: Insights Acionável
 
 ## Passo 7: Priorização das Hipóteses Analíticas
 Hipótese 1. Clientes abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
-
-<<<<<<< HEAD
-![Hipótese 1](reports/figures/img/hipotese1.jpeg)
-=======
-![Hipótese 1](./reports/figures/img/hipotese1.png)
->>>>>>> ea089abd4c3cf5aa4f5cf651d93dc2a4350d55b8
+<img width="1224" height="450" alt="hipotese1" src="https://github.com/user-attachments/assets/32739ebf-87d3-4bde-a8c2-1b540672ad1d" />
 
 Hipótese 2. Clientes solteiros gastam menos do que os outros segmentos de clientes.
-
-![Hipótese 2](reports/figures/img/hipotese2.jpeg)
+<img width="1224" height="450" alt="hipotese2" src="https://github.com/user-attachments/assets/757814ec-a779-4d96-b297-e0c18c35627b" />
 
 Hipótese 3. Clientes solteiros abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
-
-![Hipótese 3](reports/figures/img/hipotese3.jpeg)
+<img width="1224" height="450" alt="hipotese3" src="https://github.com/user-attachments/assets/eebafd63-7b53-4f4c-8653-52d86a878b7a" />
 
 Hipótese 4. Clientes com crianças em casa compram mais pelo ifood.
-
-![Hipótese 4](reports/figures/img/hipotese4.jpeg)
+<img width="1224" height="450" alt="hipotese4" src="https://github.com/user-attachments/assets/697e09da-7d56-4ee3-b1fb-337435eddeb3" />
 
 Hipótese 5. Clientes que compram mais carne também compram mais vinho.
-
-![Hipótese 5](reports/figures/img/hipotese5.jpeg)
+<img width="1224" height="450" alt="hipotese5" src="https://github.com/user-attachments/assets/147d2689-8133-42f1-bde6-c93cbeeb7fed" />
 
 # Insights da análise
 ### Visão geral da campanha de Marketing
-![Visão Geral](reports/figures/img/visao-geral.jpeg)
+<img width="653" height="489" alt="visao-geral" src="https://github.com/user-attachments/assets/cb00f60f-58b2-408f-8852-58c8d946feb4" />
 
 ### Visão Clientes
-![Visão Cliente](reports/figures/img/visao-clientes.jpeg)
+<img width="652" height="491" alt="visao-clientes" src="https://github.com/user-attachments/assets/4779300e-bb36-4c27-8800-ab68165216f6" />
 
 ### Conclusão: Visão Resultado Cliente
-![Visão Resultado Cliente](reports/figures/img/visao-clientes-completa.jpeg)
+<img width="653" height="491" alt="visao-clientes-completa" src="https://github.com/user-attachments/assets/fd13055f-74ce-465f-ac98-3cde492d5d2e" />
 
 ### Conclusão: Visão Produto
-![Visão Produto](reports/figures/img/visao-produto.jpeg)
-![Visão Produto](reports/figures/img/visao-produto.jpeg)
-![Visão Produto](reports/figures/img/visao-produto.jpeg)
+<img width="655" height="491" alt="visao-produto" src="https://github.com/user-attachments/assets/e9943c9a-bb17-4732-89e8-49a6c00c7041" />
+<img width="652" height="491" alt="visao-clientes" src="https://github.com/user-attachments/assets/df01dab1-c917-4861-b150-a113b73808c2" />
 
 # Resultados
 Conclusão: o melhor segmento da campanha foram os clientes casados com idade entre 41 e 50 anos de idade, sem filhos em casa em com graduação completa.
