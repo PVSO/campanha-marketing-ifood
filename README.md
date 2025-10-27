@@ -124,7 +124,7 @@ Hipótese 5. Clientes que compram mais carne também compram mais vinho.
 ![visao_campanha_completa](https://github.com/user-attachments/assets/41b75f64-96af-408b-9b6d-c18062f65dd6)
 
 ### Visão Clientes
-![visao-clientes](https://github.com/user-attachments/assets/c1efce7c-708a-4394-9026-9760f539163a)
+![visao-clientes](https://github.com/user-attachments/assets/95e1db83-cdb0-46d0-ac9d-326a7133cea2)
 
 ### Conclusão: Visão Resultado Cliente
 ![visao-clientes-completa](https://github.com/user-attachments/assets/0098b286-ff71-405a-aad5-aefca9365a47)
