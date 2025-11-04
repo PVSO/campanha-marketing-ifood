@@ -80,7 +80,7 @@ Fato + Dimensão: Cliente - Atributos: Idade.
 
 1. O faturamento dos clientes abaixo de 30 anos é maior do que nas outras faixas etárias.
 2. O faturamento dos clientes entre 20 e 30 anos é maior do que nas outras faixas etárias.
-3. O faturamento dos clientes acima dis 30 anos do que nas outras faixas etárias.
+3. O faturamento dos clientes acima dos 30 anos é maior do que nas outras faixas etárias.
 
 Fato + Dimensão: Cliente - Atributos: Estado Civil.
 
@@ -100,7 +100,7 @@ Fato + Dimensão: Cliente - Atributos: Formação.
 ## Passo 6: Critérios de Priorização
 Critério 1: Dados disponíveis
 
-Critério 2: Insights Acionável
+Critério 2: Insight Acionável
 
 ## Passo 7: Priorização das Hipóteses Analíticas
 Hipótese 1. Clientes abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
