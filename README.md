@@ -140,7 +140,7 @@ O pior segmento de clientes foram os viúvos de todas as faixas etárias, client
 Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas ações ao melhor segmento apresentado e reduzir o investimento nos outros segmentos, especialmente o mencionado.
 
 ## Visualize a análise completa:
-[Análise Completa](https://lookerstudio.google.com/reporting/9536ef1a-3c05-4347-b335-ae914e3c92d5)
+[Análise Completa](https://analyse-campanha-marketing-ifood.streamlit.app/)
 
 # Próximos Passos
 1. Explorar mais características dos clientes.
