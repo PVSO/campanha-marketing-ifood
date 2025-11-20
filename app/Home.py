@@ -1,10 +1,6 @@
 import os
-import numpy as np
 import pandas as pd
-# import matplotlib.pyplot as plt
-import seaborn as sns
 import plotly.express as px
-import pycountry
 import streamlit as st
 
 caminho_base = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
